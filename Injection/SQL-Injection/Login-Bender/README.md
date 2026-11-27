@@ -9,8 +9,6 @@
 
 **Vulnerability Type:** Authentication Bypass
 
-**Tools:** Browser | Burp Suite (Optional)
-
 **Environment:** Local Authorized Lab
 
 **Status:** Successfully Completed – Main Challenge and Coding Challenge
