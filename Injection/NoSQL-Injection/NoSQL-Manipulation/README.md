@@ -111,7 +111,7 @@ The accompanying PDF includes:
 
 ## 9. Professional Lab Report
 
-[View NoSQL Manipulation Report](./NoSQL-Manipulation-Report.pdf)
+[View NoSQL Manipulation Report](./NoSQL%20Manipulation%20Report.pdf)
 
 ## 10. Scope Disclaimer
 
